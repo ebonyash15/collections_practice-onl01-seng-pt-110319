@@ -21,8 +21,8 @@ def swap_elements(array)
   new_part
 end
 
-def swap_elements_from_to()
-
+def swap_elements_from_to(array, original_index, new_index)
+  # ["a", "b", "c"],2,0  => ["c", "b", "a"]
 end
 
 def reverse_array(array)
